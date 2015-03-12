@@ -1,2 +1,3 @@
 add codeing:utf-8
 hello
+/usr/bin/env
